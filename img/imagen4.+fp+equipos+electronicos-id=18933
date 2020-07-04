@@ -1,0 +1,1090 @@
+
+
+
+<!DOCTYPE html>
+<!--[if IE 8]>			<html lang="es" class="ie ie8"> <![endif]-->
+<!--[if IE 9]>			<html lang="es" class="ie ie9"> <![endif]-->
+<!--[if gt IE 9]><!-->	<html lang="es"> <!--<![endif]-->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<meta name="robots" content="index,follow" />
+	<meta name="Author" content="System Cloud Andaluc&iacute;a [www.jimenezmatias.es]" />
+
+	<!-- mobile settings -->
+	<meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0" />
+
+									<meta property="og:image" content="https://anpearagon.es/image.php?link=notices/2/historico/EQUIPOS_ELECTRONICOS_1513715388.jpg" />
+									<meta name="twitter:image" content="https://anpearagon.es/image.php?link=notices/2/historico/EQUIPOS_ELECTRONICOS_1513715388.jpg" />
+									
+									<meta property="og:image:width" content="160" />
+									<meta property="og:image:height" content="120" />
+									<meta property="og:title" content="BOLSA EXTRAORDINARIA. FP EQUIPOS ELECTRÓNICOS" />
+									<meta property="og:description" content="" />
+
+									<meta name="twitter:card" content="summary_large_image" />
+									<meta name="twitter:site" content="@Aragón" />
+									<meta name="twitter:creator" content="@Aragón" />
+									<meta name="twitter:title" content="BOLSA EXTRAORDINARIA. FP EQUIPOS ELECTRÓNICOS" />
+									<meta name="twitter:description" content="" />
+
+									<meta name="description" content="" />
+									<meta name="keywords" content="" />
+									<title>BOLSA EXTRAORDINARIA. FP EQUIPOS ELECTRÓNICOS | Noticia - </title>
+								
+	<link rel="shortcut icon" href="./assets/images/favicon.ico" />
+
+	<!-- WEB FONTS -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet" type="text/css" />
+	<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Abel|Cabin|Crimson+Text|Fjalla+One|Heebo|Lora|Merriweather|Overpass|Raleway|Roboto|Roboto+Condensed|Source+Serif+Pro|Ubuntu+Condensed" rel="stylesheet" />
+
+	<!-- CORE CSS -->
+	<link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="assets/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<link href="assets/plugins/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css" />
+	<link href="assets/plugins/owl-carousel/owl.theme.css" rel="stylesheet" type="text/css" />
+	<link href="assets/plugins/owl-carousel/owl.transitions.css" rel="stylesheet" type="text/css" />
+	<link href="assets/plugins/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css" />
+	<link href="assets/css/animate.css" rel="stylesheet" type="text/css" />
+	<link href="assets/css/superslides.css" rel="stylesheet" type="text/css" />
+
+	<!-- REVOLUTION SLIDER -->
+	<link href="assets/plugins/revolution-slider/css/settings.css" rel="stylesheet" type="text/css" />
+
+	<!-- THEME CSS -->
+	<link href="assets/css/essentials.css" rel="stylesheet" type="text/css" />
+	<link href="assets/css/layout.css" rel="stylesheet" type="text/css" />
+	<link href="assets/css/layout-responsive.css" rel="stylesheet" type="text/css" />
+	<link href="assets/css/color_scheme/darkgreen.css" rel="stylesheet" type="text/css" /><!-- orange: default style -->
+	<!--<link id="css_dark_skin" href="assets/css/layout-dark.css" rel="stylesheet" type="text/css" />--><!-- DARK SKIN -->
+
+	<!-- SHOP CSS -->
+	<link href="assets/css/portfolio.css" rel="stylesheet" type="text/css" />
+
+	<!-- BLOG CSS -->
+	<link href="assets/css/blog.css" rel="stylesheet" type="text/css" />
+	
+	<!-- styleswitcher - demo only
+	<link href="assets/css/color_scheme/orange.css" rel="alternate stylesheet" type="text/css" title="orange" />
+	<link href="assets/css/color_scheme/red.css" rel="alternate stylesheet" type="text/css" title="red" />
+	<link href="assets/css/color_scheme/pink.css" rel="alternate stylesheet" type="text/css" title="pink" />
+	<link href="assets/css/color_scheme/yellow.css" rel="alternate stylesheet" type="text/css" title="yellow" />
+	<link href="assets/css/color_scheme/darkgreen.css" rel="alternate stylesheet" type="text/css" title="darkgreen" />
+	<link href="assets/css/color_scheme/green.css" rel="alternate stylesheet" type="text/css" title="green" />
+	<link href="assets/css/color_scheme/darkblue.css" rel="alternate stylesheet" type="text/css" title="darkblue" />
+	<link href="assets/css/color_scheme/blue.css" rel="alternate stylesheet" type="text/css" title="blue" />
+	<link href="assets/css/color_scheme/brown.css" rel="alternate stylesheet" type="text/css" title="brown" />
+	<link href="assets/css/color_scheme/lightgrey.css" rel="alternate stylesheet" type="text/css" title="lightgrey" />
+	/styleswitcher - demo only -->
+
+	<!-- Morenizr -->
+	<script type="text/javascript" src="assets/plugins/modernizr.min.js"></script>
+	<script type="text/javascript" src="assets/js/jquery-2.1.4.min.js"></script>
+
+
+	<script type="text/javascript" src="assets/js/cookiesdirective.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.cookiesdirective.js"></script>
+
+</head><body class="boxed" style="background-color:#D7D6D6">
+		<!-- Top Bar -->
+		<header id="topHead" style="height:5px;background-color:#FFF;">
+			<div id="progress-bar"></div>
+
+		</header>
+		<!-- /Top Bar -->
+
+		<!-- TOP NAV -->
+		<header id="topNav" class="topHead" style="top:0px;background-color:#FFF;"><!-- remove class="topHead" if no topHead used! -->
+			<div class="container">
+
+				<!-- Mobile Menu Button -->
+				<button class="btn btn-mobile" data-toggle="collapse" data-target=".nav-main-collapse">
+					<i class="fa fa-bars"></i>
+				</button>
+
+				<!-- Logo text or image //-->
+				<a class="logo" href="./">
+					<img src="assets/images/logo.png" alt="ANPE Aragon" />
+				</a>
+
+				<!-- Top Nav -->
+				<div class="navbar-collapse nav-main-collapse collapse pull-right">
+					<nav class="nav-main mega-menu">
+						<ul class="nav nav-pills nav-main scroll-menu" id="topMain">
+
+							<li>
+								<a style="font-weight:bold;font-size:14px;color:#3c763d;" class="dropdown-toggle" href="./">
+									Inicio <i class="fa fa-home fa-fw"></i>
+								</a>
+							</li>
+
+
+							<li>
+			
+								<a style="font-weight:bold;font-size:14px;color:#3c763d;" class="dropdown-toggle" href="./categoria+ANPE-id=1" title="ANPE">
+									ANPE
+			
+								</a>
+		
+							</li>
+		
+							<li>
+			
+								<a style="font-weight:bold;font-size:14px;color:#3c763d;" class="dropdown-toggle" href="./categoria+Servicios-id=2" title="Servicios">
+									Servicios
+			
+								</a>
+		
+							</li>
+		
+							<li>
+								<a style="font-weight:bold;font-size:14px;color:#3c763d;" class="dropdown-toggle" href="./sedes-anpe" title="Sedes">
+									Sedes
+								</a>
+							</li>
+
+							<li>
+								<a style="font-weight:bold;font-size:14px;color:#3c763d;" class="dropdown-toggle" href="./contacto" title="Contacto">
+									Contacto
+								</a>
+							</li>
+
+							<li style="margin-top:-8px;">
+								<a href="./rss.php" class="social rounded fa fa-rss" target="_blank">
+									<span class="item visible-xs visible-sm">
+										<i class="fa fa-rss"></i>
+									</span>
+								</a>
+							</li>
+
+							<li style="margin-top:-8px;">
+								<a href="https://www.facebook.com/ANPE-Arag%C3%B3n-163252367169315/" class="social rounded fa fa-facebook" target="_blank">
+									<span class="item visible-xs visible-sm">
+										<i class="fa fa-facebook"></i>
+									</span>
+								</a>
+							</li>
+						
+							<li style="margin-top:-8px;">
+								<a href="https://twitter.com/anpearagon" class="social rounded fa fa-twitter" target="_blank">
+									<span class="item visible-xs visible-sm">
+										<i class="fa fa-twitter"></i>
+									</span>
+								</a>
+							</li>
+						
+							<li style="margin-top:-8px;">
+								<a href="https://www.instagram.com/anpe_aragon/?hl=es" class="social rounded fa fa-instagram" target="_blank">
+									<span class="item visible-xs visible-sm">
+										<i class="fa fa-instagram"></i>
+									</span>
+								</a>
+							</li>
+						
+							<!-- GLOBAL SEARCH //-->
+							<li style="color:#c7c4c4;" class="search">
+								<form method="post" action="./buscar" class="input-group pull-right">
+<input type='hidden' name='postID' value='f8d2154b250e4b55668b7e26b70ac15c' />
+									<input type="text" class="form-control" name="busqueda" id="busqueda" value="" placeholder="Buscar noticias">
+									<span class="input-group-btn">
+										<button class="btn btn-primary notransition"><i class="fa fa-search"></i></button>
+									</span>
+								</form>
+							</li>
+							<!-- GLOBAL SEARCH //-->
+
+						</ul>
+					</nav>
+				</div>
+				<!-- /Top Nav -->
+
+			</div>
+		</header>
+
+		<!--
+		<span id="header_shadow"></span>
+		//-->
+		<!-- /TOP NAV -->
+
+
+
+		<!-- WRAPPER -->
+		<div id="wrapper" style="background:#f4f5f7;">
+
+			<script type="text/javascript">
+				var revapi;
+				jQuery(document).ready(function() {
+					   revapi = jQuery('.tp-banner').revolution(
+						{
+							delay:15000,
+							startwidth:1170,
+							startheight:150,
+							hideThumbs:10,
+							fullWidth:"on",
+							fullScreen:"off",
+							fullScreenOffsetContainer: ""
+						});
+				});	//ready
+			</script>
+	
+		<div class="visible-sm visible-md visible-lg">
+			<div class="tp-banner-container">
+				<div class="tp-banner">
+
+	
+					<ul>
+	
+						<li data-transition="zoomout" data-slotamount="7" data-masterspeed="500" class="inlineImgSlider" style="display:none">
+							<!-- MAIN IMAGE -->
+			
+								<img src="imageFile.php?link=slider/2/slider_dia_medio_ambiente_t1591342068a.jpg" alt="slider2" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" />
+			
+							<!-- LAYERS -->
+						</li>
+			
+						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" class="inlineImgSlider" style="display:none">
+							<!-- MAIN IMAGE -->
+			
+								<img src="imageFile.php?link=slider/2/publica_t1582722423a.gif" alt="slider3" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" />
+			
+							<!-- LAYERS -->
+						</li>
+			
+						<li data-transition="zoomout" data-slotamount="7" data-masterspeed="500" class="inlineImgSlider" style="display:none">
+							<!-- MAIN IMAGE -->
+			
+								<img src="imageFile.php?link=slider/2/imagefile_t1588237341a.jpg" alt="slider4" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" />
+			
+							<!-- LAYERS -->
+						</li>
+			
+						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" class="inlineImgSlider" style="display:none">
+							<!-- MAIN IMAGE -->
+			
+							<a href="http://anpe.es/notices+nueva+campa%C3%B1a+pon+tu+granito+de+arena.+dec%C3%A1logo+ambiental+para+contribuir+en+la+lucha+contra+el+cambio+clim%C3%A1tico.-id=10154" target="_blank">
+				
+								<img src="imageFile.php?link=slider/2/decalogo_ambiental_aragon_t1573485628a.png" alt="slider5" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" />
+			
+							</a>
+			
+							<!-- LAYERS -->
+						</li>
+			
+						<li data-transition="zoomout" data-slotamount="7" data-masterspeed="500" class="inlineImgSlider" style="display:none">
+							<!-- MAIN IMAGE -->
+			
+								<img src="imageFile.php?link=slider/2/slider-quedateencasa_t1584435598a.png" alt="slider6" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat" />
+			
+							<!-- LAYERS -->
+						</li>
+			
+					</ul>
+					<div class="tp-bannertimer"></div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Funciones jquery //-->
+		<script type="text/JavaScript">
+			$(document).ready(function() {
+				$(".inlineImgSlider").delay(1000).fadeIn("slow");
+			});
+		</script>
+	
+			<header id="topNav" class="topHead" style="position:static;margin-top:3px;padding:8px 0 0 0;border-bottom-style:none;box-shadow:none;background-color:#FFF;"><!-- remove class="topHead" if no topHead used! -->
+				<div class="container">
+					<button class="btn btn-mobile" data-toggle="collapse" data-target=".nav-main-collapse-2" style="margin-top: 8px; float: right;">
+						<i class="fa fa-bars"></i>
+					</button>
+					<div class="navbar-collapse nav-main-collapse-2 pull-left collapse" aria-expanded="false" style="height: 0px;">
+						<nav class="nav-main mega-menu">
+
+							<ul class="nav nav-pills nav-main scroll-menu" style="margin: -7px 0 0px 0;">
+	
+							<li class="dropdown active resp-active">
+								<a style="font-weight:bold;font-size:14px;color:#3c763d;" class="dropdown-toggle" href="javascript:;" title="Legislación">
+			
+									Legislación
+			
+									<i class="fa fa-angle-down"></i>
+			
+								</a>
+			
+								<ul class="dropdown-menu">
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="./submenu-footer+LOMCE-id=1" title="LOMCE">
+				
+											LOMCE
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="http://www.educaragon.org/arboles/arbol.asp?sepRuta=Sistema+Educativo%2F&guiaeducativa=&strSeccion=PPI06&titpadre=Legislaci%F3n+educativa&arrpadres=&arrides=&arridesvin=&lngArbol=1680&lngArbolvinculado=" title="LEDA" target="_blank">
+				
+											LEDA
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="./submenu-footer+INCAPACIDAD+TEMPORAL-id=2" title="INCAPACIDAD TEMPORAL">
+				
+											INCAPACIDAD TEMPORAL
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="http://www.educaragon.org/dgoa/nodo.asp?id=2590" title="PRIMARIA" target="_blank">
+				
+											PRIMARIA
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="./submenu-footer+PROGRAMAS+BILINGÜES-id=4" title="PROGRAMAS BILINGÜES">
+				
+											PROGRAMAS BILINGÜES
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="http://servicios.aragon.es/pgepa/" title="CEPA" target="_blank">
+				
+											CEPA
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="http://www.educaragon.org/dgoa/nodo.asp?id=2601" title="SECUNDARIA" target="_blank">
+				
+											SECUNDARIA
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="http://www.educaragon.org/dgoa/nodo.asp?id=2573" title="EDUCACIÓN INFANTIL" target="_blank">
+				
+											EDUCACIÓN INFANTIL
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="http://fp.educaragon.org/index.asp" title="FORMACIÓN PROFESIONAL" target="_blank">
+				
+											FORMACIÓN PROFESIONAL
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="http://www.educaragon.org/dgoa/nodo.asp?id=2626" title="IDIOMAS" target="_blank">
+				
+											IDIOMAS
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="http://www.educaragon.org/dgoa/nodo.asp?id=2630" title="ARTES PLÁSTICAS Y DISEÑO" target="_blank">
+				
+											ARTES PLÁSTICAS Y DISEÑO
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="http://www.educaragon.org/dgoa/nodo.asp?id=2637" title="MÚSICA Y DANZA" target="_blank">
+				
+											MÚSICA Y DANZA
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="http://www.educaragon.org/dgoa/nodo.asp?id=2642" title="ENSEÑANZAS DEPORTIVAS" target="_blank">
+				
+											ENSEÑANZAS DEPORTIVAS
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="http://www.educaragon.org/dgoa/nodo.asp?id=2644" title="EDUCACIÓN PERMANENTE" target="_blank">
+				
+											EDUCACIÓN PERMANENTE
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="http://www.educaragon.org/dgoa/nodo.asp?id=2615" title="BACHILLERATO" target="_blank">
+				
+											BACHILLERATO
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="http://orientacion.catedu.es/" title="EDUCACIÓN INCLUSIVA " target="_blank">
+				
+											EDUCACIÓN INCLUSIVA 
+										</a>
+									</li>
+				
+								</ul>
+			
+							</li>
+			
+							<li class="dropdown active resp-active">
+								<a style="font-weight:bold;font-size:14px;color:#3c763d;" class="dropdown-toggle" href="javascript:;" title="Educaragón">
+			
+									Educaragón
+			
+									<i class="fa fa-angle-down"></i>
+			
+								</a>
+			
+								<ul class="dropdown-menu">
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="https://educa.aragon.es/home" title="Noticias" target="_blank">
+				
+											Noticias
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="https://educa.aragon.es/personal-docente" title="Gestión de personal" target="_blank">
+				
+											Gestión de personal
+										</a>
+									</li>
+				
+								</ul>
+			
+							</li>
+			
+							<li class="dropdown active resp-active">
+								<a style="font-weight:bold;font-size:14px;color:#3c763d;" class="dropdown-toggle" href="javascript:;" title="Calendario escolar">
+			
+									Calendario escolar
+			
+									<i class="fa fa-angle-down"></i>
+			
+								</a>
+			
+								<ul class="dropdown-menu">
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="./submenu-footer+Calendario+escolar+2020+21.+Resolución+de+22+de+junio-id=21" title="Calendario escolar 2020/21. Resolución de 22 de junio">
+				
+											Calendario escolar 2020/21. Resolución de 22 de junio
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="https://educa.aragon.es/calendario-escolar" title="Calendario escolar 2019/20" target="_blank">
+				
+											Calendario escolar 2019/20
+										</a>
+									</li>
+				
+								</ul>
+			
+							</li>
+			
+							<li class="dropdown active resp-active">
+								<a style="font-weight:bold;font-size:14px;color:#3c763d;" class="dropdown-toggle" href="javascript:;" title="Calendario Inicio de Curso.">
+			
+									Calendario Inicio de Curso.
+			
+									<i class="fa fa-angle-down"></i>
+			
+								</a>
+			
+								<ul class="dropdown-menu">
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="./submenu-footer+Calendario+Inicio+de+Curso.+Maestros-id=18" title="Calendario Inicio de Curso. Maestros">
+				
+											Calendario Inicio de Curso. Maestros
+										</a>
+									</li>
+				
+									<li>
+				
+										<a style="color:#2E363F;" class="dropdown-toggle" href="./submenu-footer+Calendario+Inicio+de+Curso.+Secundaria-id=19" title="Calendario Inicio de Curso. Secundaria">
+				
+											Calendario Inicio de Curso. Secundaria
+										</a>
+									</li>
+				
+								</ul>
+			
+							</li>
+			
+							</ul>
+						</nav>
+					</div>
+				</header>
+	
+			<div id="blog">
+
+
+				<section class="container">
+
+					<script type="text/javascript">
+						jQuery(document).ready(function() {
+							   jQuery('.tp-banner').revolution(
+								{
+									delay:9000,
+									startwidth:1170,
+									startheight:500,
+									hideThumbs:10
+								});
+						});
+					</script>
+
+					<div class="row" style="padding:0px;">
+					
+						<div class="col-md-8" style="margin-top:20px;padding-top:10px;background-color:#fff;text-align:justify;">
+
+							<div class="col-md-12" style="margin:0px;padding:0px;">
+								<div class="col-md-11" style="float:left;margin:0px;padding:0px;">
+
+									<!-- TAGS -->
+									<a href="./tags+Histórico" style="color:#777;border:1px solid #777;" class="label label-anpe light"><i class="fa fa-tags"></i> Histórico</a>
+	
+								</div>
+								<div class="col-md-1" style="float:right;margin:0px;padding:0px;">
+									<div style="float:right;margin: 0 0 10px 0;">
+										<a href="./" class="btn btn-primary btn-xs" title="Volver">
+											<i class="fa fa-reply white"></i> Volver
+										</a>
+									</div>
+								</div>
+							</div><br />
+
+							<h1>BOLSA EXTRAORDINARIA. FP EQUIPOS ELECTRÓNICOS</h1>
+							<p>
+								<hr style="margin:0px;" />
+							</p>
+
+							<div class="col-md-12" style="margin:-10px 0 0 0;padding:0px;">
+								<div class="col-md-1" style="float:left;margin:0px;padding:0px;">
+									<span style="color:#777;" class="label label-anpe light">17 May, 2017</span><br />
+								</div>
+								<div class="col-md-11" style="float:right;margin:0px;padding:0px;">
+									<div style="float:right;margin: 0 0 10px 0;">
+
+										<a href="./territory+" class="label label-anpe light" style="color:#777;margin-bottom:5px;"></a>
+										<a href="./territory+Aragón" class="label label-anpe light" style="color:#777;margin-bottom:5px;">Aragón</a>
+										<a href="./territory+" class="label label-anpe light" style="color:#777;margin-bottom:5px;"></a>
+			
+									</div>
+								</div>
+							</div><br />
+
+							<div class="col-md-12" style="margin:0px;padding:0px;">
+								<div class="api" style="font-size:0.8em;margin: 0 0 10px 0;">
+
+								<!-- twitter -->
+								<a style="margin-right:5px;" href="https://twitter.com/share?text=BOLSA EXTRAORDINARIA. FP EQUIPOS ELECTRÓNICOS" target="_blank" data-lang="es"><i class="fab fa-twitter fa-2x" style="color:#1da1f2;"></i></a>
+		
+								<!-- facebook -->
+								<a style="margin-right:5px;" href="https://www.facebook.com/share.php?u=http://anpearagon.es/notices+bolsa+extraordinaria.+fp+equipos+electronicos-id=18933" target="_blank"><i class="fab fa-facebook fa-2x" style="color:#4267b2;"></i></a>
+		
+								<!-- Movile //-->
+								<a class="visible-xs" style="margin-right:5px;float:left;" href="whatsapp://send?text=https://anpearagon.es/notices%2Bbolsa%2Bextraordinaria.%2Bfp%2Bequipos%2Belectronicos-id=18933" target="_blank"><i class="fab fa-whatsapp fa-2x"></i></a>
+								<a href="mailto:?subject=BOLSA EXTRAORDINARIA. FP EQUIPOS ELECTRÓNICOS&body=Compartir noticia: https://anpearagon.es/notices+id=18933"><i class="fas fa-envelope fa-2x" style="color:#1da1f2;"></i></a>
+								</div>
+							</div>
+
+							<article>
+
+							<img src="https://anpearagon.es/imageFile.php?link=ckeditor/upload/community/2/images/EQUIPOS_ELECTRONICOS_1513715388.jpg" alt="EQUIPOS ELECTRÓNICOS" width="278" height="201" /><br />  PROF. DE E. SECUNDARIA, FP Y RR.EE.<br />  <br />  <br />  <br />  0591 202 Equipos Electrónicos, del Cuerpo de Profesores Técnicos de Formación Profesional.<br />  <br /><br />  <br />  <a style="color: #0088cc;" href="https://servicios3.aragon.es/sigicon/" target="_blank">SOLICITUD DE PARTICIPACIÓN</a><br />   <br />   <br />  Quienes deseen participar en la presente convocatoria, deberán cumplimentar la solicitud que se obtendrá exclusivamente a partir del anterior enlace web y estará disponible desde las 00:00 horas del miércoles 17 de mayo hasta las 14:00 horas del viernes 19 de mayo.<br />  Solamente es necesario acudir a la prueba provistos del DNI o Pasaporte.<br />  La solicitud de participación que se genera al inscribirse en la ampliación NO es necesaria llevarla a la prueba: sirve como comprobante de la inscripción.<br />  <a href="http://www.educaragon.org/GestionPersonal/nodo.asp?id=1491" target="_blank">ENLACE PARA SEGUIR EL PROCEDIMIENTO</a><br />  <br />  <br />  <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />   <br />  Ficheros:<br />  <br />  <a style="color: #ff6600;" href="http://www.educaragon.org/files/Resoluci%C3%B3n%20convocatoria%200591%20202%20EQ%20Electr%C3%B3nicos.pdf" target="_blank">Resolución Convocatoria (2.300 KB)</a><br />  <a style="color: #ff6600;" href="http://www.educaragon.org/files/Anexo%20I%20Titulaciones(54).pdf" target="_blank">Anexo I Titulaciones (15 KB)</a><br />  <a style="color: #ff6600;" href="http://www.educaragon.org/files/Anexo%20II%20Prueba(48).pdf" target="_blank">Anexo II Prueba (13 KB)</a><br />  <a style="color: #ff6600;" href="http://www.educaragon.org/files/Comision%20Calificadora%200591%20202%20eq%20ELECTR%C3%93NICOS.pdf" target="_blank">Comisión Calificadora (90 KB)</a><br />  <br />   <br />  <br />  
+							</article>
+
+
+							<p>
+								<hr style="margin:0px;" />
+							</p>
+
+							<div class="col-md-12" style="margin:0px;padding:0px;">
+								<div class="col-md-2" style="float:left;margin:0px;padding:0px;">
+									<div class="api" style="font-size:0.8em;margin: 0 0 10px 0;">
+
+									<!-- twitter -->
+									<a style="margin-right:5px;" href="https://twitter.com/share?text=BOLSA EXTRAORDINARIA. FP EQUIPOS ELECTRÓNICOS" target="_blank" data-lang="es"><i class="fab fa-twitter fa-2x" style="color:#1da1f2;"></i></a>
+			
+									<!-- facebook -->
+									<a style="margin-right:5px;" href="https://www.facebook.com/share.php?u=http://anpearagon.es/notices+bolsa+extraordinaria.+fp+equipos+electronicos-id=18933" target="_blank"><i class="fab fa-facebook fa-2x" style="color:#4267b2;"></i></a>
+			
+									<!-- Movile //-->
+		
+									<a class="visible-xs" style="margin-right:5px;float:left;" href="whatsapp://send?text=https://anpearagon.es/notices%2Bbolsa%2Bextraordinaria.%2Bfp%2Bequipos%2Belectronicos-id=18933" target="_blank"><i class="fab fa-whatsapp fa-2x"></i></a>
+									<a href="mailto:?subject=BOLSA EXTRAORDINARIA. FP EQUIPOS ELECTRÓNICOS&body=Compartir noticia: https://anpearagon.es/notices+id=18933"><i class="fas fa-envelope fa-2x" style="color:#1da1f2;"></i></a>
+									</div>
+								</div>
+								<div class="col-md-10" style="float:right;margin:0px;padding:0px;">
+									<div style="float:right;margin: 0 0 10px 0;">
+
+
+									<!-- TAGS -->
+									<a href="./tags+Histórico" style="color:#777;border:1px solid #777;" class="label label-anpe light"><i class="fa fa-tags"></i> Histórico</a>
+	
+									<br /><br />
+	
+
+									</div>
+								</div>
+							</div><br /><br /><br />
+
+							<div class="col-md-12" style="margin:0px;padding:0px;">
+								<div class="col-md-11" style="float:left;margin:0px;padding:0px;"></div>
+								<div class="col-md-1" style="float:right;margin:0px;padding:0px;">
+									<div style="float:right;margin: 0 0 10px 0;">
+										<a href="./" class="btn btn-primary btn-xs" title="Volver">
+											<i class="fa fa-reply white"></i> Volver
+										</a>
+									</div>
+								</div>
+							</div><br /><br />
+
+						</div>
+						<div class="col-md-4">
+							<br />
+							<ul style="padding:0px;">
+
+								<li class="item appear-animation" data-animation="fadeInRight" style="position:relative;overflow: hidden; background:#fff;margin-bottom:10px;padding:10px 15px 15px 15px">
+		
+
+									<!-- article title -->
+									<div class="item-title">
+										<h5><a style="color:#000;" href="./notices+anpe+te+informa.+funcionarios+docentes+en+el+exterior.-id=19002" title="ANPE te informa. Funcionarios docentes en el exterior.">ANPE te informa. Funcionarios docentes en el exterior.</a></h5>
+		
+										<a href="./territory+" class="label label-anpe light" style="color:#777;margin-bottom:5px;"></a>
+										<a href="./territory+" class="label label-anpe light" style="color:#777;margin-bottom:5px;"></a>
+										<a href="./territory+Aragón" class="label label-anpe light" style="color:#777;margin-bottom:5px;">Aragón</a>
+			
+										<span class="label label-anpe light" style="color:#777;margin-bottom:5px;">29 Nov, 2017</span>
+									</div>
+
+									<!-- blog short preview -->
+									<div>
+		
+										<img class="img-responsive animate_fade_in" style="display:block; float:left; margin-right:10px;" src="./image.php?link=notices/2/historico/EXTERIOR_1513715389.jpg" width="160" alt="historico" />
+		
+										<p style="font-size:13px;line-height:18px;padding:0px;">   ·        Funcionarios Docentes en el exterior 2017  Resolución 23 de noviembre de 2017 de la Subsecretaria, por la que se convoca a concurso para la provisión de puestos de personal  docente en el exterior.     ·        Asesores Técnicos en el exterior 2017  Resolución de 24 ...</p>
+									</div>
+
+									<!-- read more button -->
+									<a href="./notices+anpe+te+informa.+funcionarios+docentes+en+el+exterior.-id=19002" style="float:right;" title="ANPE te informa. Funcionarios docentes en el exterior." class="btn btn-xs"><i class="fa fa-sign-out"></i> Leer más</a>
+		
+									<!-- TAGS -->
+									<br />
+									<a href="./tags+Histórico" style="color:#777;border:1px solid #777;" class="label label-anpe light"><i class="fa fa-tags"></i> Histórico</a>
+			
+									<br />
+								</li>
+		
+								<li class="item appear-animation" data-animation="fadeInRight" style="position:relative;overflow: hidden; background:#fff;margin-bottom:10px;padding:10px 15px 15px 15px">
+		
+
+									<!-- article title -->
+									<div class="item-title">
+										<h5><a style="color:#000;" href="./notices+anpe+te+informa+sobre+los+borradores+de+temarios+de+oposiciones+docentes-id=19001" title="ANPE te informa sobre los borradores de temarios de oposiciones docentes">ANPE te informa sobre los borradores de temarios de oposiciones docentes</a></h5>
+		
+										<a href="./territory+" class="label label-anpe light" style="color:#777;margin-bottom:5px;"></a>
+										<a href="./territory+" class="label label-anpe light" style="color:#777;margin-bottom:5px;"></a>
+										<a href="./territory+Aragón" class="label label-anpe light" style="color:#777;margin-bottom:5px;">Aragón</a>
+			
+										<span class="label label-anpe light" style="color:#777;margin-bottom:5px;">28 Nov, 2017</span>
+									</div>
+
+									<!-- blog short preview -->
+									<div>
+		
+										<img class="img-responsive animate_fade_in" style="display:block; float:left; margin-right:10px;" src="./image.php?link=notices/2/historico/TEMARIOS_BORRADORES_1513715389.jpg" width="160" alt="historico" />
+		
+										<p style="font-size:13px;line-height:18px;padding:0px;">     Tras la reunión celebrada en el día de ayer entre las CCAA y el MECD, se llegó a un principio de acuerdo para que hasta 2020   no entren en vigor los nuevos temarios, quedando todo pendiente de confirmación oficial por parte del propio Ministerio de  Educación.  Esperamos vuestras aporta ...</p>
+									</div>
+
+									<!-- read more button -->
+									<a href="./notices+anpe+te+informa+sobre+los+borradores+de+temarios+de+oposiciones+docentes-id=19001" style="float:right;" title="ANPE te informa sobre los borradores de temarios de oposiciones docentes" class="btn btn-xs"><i class="fa fa-sign-out"></i> Leer más</a>
+		
+									<!-- TAGS -->
+									<br />
+									<a href="./tags+Histórico" style="color:#777;border:1px solid #777;" class="label label-anpe light"><i class="fa fa-tags"></i> Histórico</a>
+			
+									<br />
+								</li>
+		
+								<li class="item appear-animation" data-animation="fadeInRight" style="position:relative;overflow: hidden; background:#fff;margin-bottom:10px;padding:10px 15px 15px 15px">
+		
+
+									<!-- article title -->
+									<div class="item-title">
+										<h5><a style="color:#000;" href="./notices+anpe++te+informa.+nuevo+borrador+del+temario+para+oposiciones+de+educaciÓn+-id=19000" title="ANPE  te informa. NUEVO BORRADOR DEL TEMARIO PARA OPOSICIONES DE EDUCACIÓN ">ANPE  te informa. NUEVO BORRADOR DEL TEMARIO PARA OPOSICIONES DE EDUCACIÓN </a></h5>
+		
+										<a href="./territory+" class="label label-anpe light" style="color:#777;margin-bottom:5px;"></a>
+										<a href="./territory+" class="label label-anpe light" style="color:#777;margin-bottom:5px;"></a>
+										<a href="./territory+Aragón" class="label label-anpe light" style="color:#777;margin-bottom:5px;">Aragón</a>
+			
+										<span class="label label-anpe light" style="color:#777;margin-bottom:5px;">24 Nov, 2017</span>
+									</div>
+
+									<!-- blog short preview -->
+									<div>
+		
+										<img class="img-responsive animate_fade_in" style="display:block; float:left; margin-right:10px;" src="./image.php?link=notices/2/historico/TEMARIOS_BORRADORES_1513715389.jpg" width="160" alt="historico" />
+		
+										<p style="font-size:13px;line-height:18px;padding:0px;">     ENLACE A LA INFORMACIÓN SOBRE LOS NUEVOS Y PREVISIBLES TEMARIOS PARA EL ACCESO A LA DOCENCIA.       ...</p>
+									</div>
+
+									<!-- read more button -->
+									<a href="./notices+anpe++te+informa.+nuevo+borrador+del+temario+para+oposiciones+de+educaciÓn+-id=19000" style="float:right;" title="ANPE  te informa. NUEVO BORRADOR DEL TEMARIO PARA OPOSICIONES DE EDUCACIÓN " class="btn btn-xs"><i class="fa fa-sign-out"></i> Leer más</a>
+		
+									<!-- TAGS -->
+									<br />
+									<a href="./tags+Histórico" style="color:#777;border:1px solid #777;" class="label label-anpe light"><i class="fa fa-tags"></i> Histórico</a>
+			
+									<br />
+								</li>
+		
+								<li class="item appear-animation" data-animation="fadeInRight" style="position:relative;overflow: hidden; background:#fff;margin-bottom:10px;padding:10px 15px 15px 15px">
+		
+
+									<!-- article title -->
+									<div class="item-title">
+										<h5><a style="color:#000;" href="./notices+memoria+curso+2016-17+anpe+aragón-id=18999" title="memoria curso 2016-17 ANPE Aragón">memoria curso 2016-17 ANPE Aragón</a></h5>
+		
+										<a href="./territory+" class="label label-anpe light" style="color:#777;margin-bottom:5px;"></a>
+										<a href="./territory+" class="label label-anpe light" style="color:#777;margin-bottom:5px;"></a>
+										<a href="./territory+Aragón" class="label label-anpe light" style="color:#777;margin-bottom:5px;">Aragón</a>
+			
+										<span class="label label-anpe light" style="color:#777;margin-bottom:5px;">23 Nov, 2017</span>
+									</div>
+
+									<!-- blog short preview -->
+									<div>
+		
+										<img class="img-responsive animate_fade_in" style="display:block; float:left; margin-right:10px;" src="./image.php?link=notices/2/historico/defensor_profesor_1718_1513715389.jpg" width="160" alt="historico" />
+		
+										<p style="font-size:13px;line-height:18px;padding:0px;">     El último informe de ANPE indica un cambio de tendencia en los casos de acoso y violencia hacia los docentes. Más de 32.500 compañeros han sido atendidos por ANPE desde la creación del servicio de El Defensor del Profesor. De ellos, 2.249 corresponden al curso 2016-2017, lo que supone un 1 ...</p>
+									</div>
+
+									<!-- read more button -->
+									<a href="./notices+memoria+curso+2016-17+anpe+aragón-id=18999" style="float:right;" title="memoria curso 2016-17 ANPE Aragón" class="btn btn-xs"><i class="fa fa-sign-out"></i> Leer más</a>
+		
+									<!-- TAGS -->
+									<br />
+									<a href="./tags+Histórico" style="color:#777;border:1px solid #777;" class="label label-anpe light"><i class="fa fa-tags"></i> Histórico</a>
+			
+									<br />
+								</li>
+		
+								<li class="item appear-animation" data-animation="fadeInRight" style="position:relative;overflow: hidden; background:#fff;margin-bottom:10px;padding:10px 15px 15px 15px">
+		
+
+									<!-- article title -->
+									<div class="item-title">
+										<h5><a style="color:#000;" href="./notices+anpe+aragón+presenta+la+memoria+del+defensor+del+profesor+201617-id=18998" title="ANPE Aragón presenta la memoria del defensor del profesor 2016/17">ANPE Aragón presenta la memoria del defensor del profesor 2016/17</a></h5>
+		
+										<a href="./territory+" class="label label-anpe light" style="color:#777;margin-bottom:5px;"></a>
+										<a href="./territory+" class="label label-anpe light" style="color:#777;margin-bottom:5px;"></a>
+										<a href="./territory+Aragón" class="label label-anpe light" style="color:#777;margin-bottom:5px;">Aragón</a>
+			
+										<span class="label label-anpe light" style="color:#777;margin-bottom:5px;">23 Nov, 2017</span>
+									</div>
+
+									<!-- blog short preview -->
+									<div>
+		
+										<img class="img-responsive animate_fade_in" style="display:block; float:left; margin-right:10px;" src="./image.php?link=notices/2/historico/defensor_profesor_1718_1513715389.jpg" width="160" alt="historico" />
+		
+										<p style="font-size:13px;line-height:18px;padding:0px;">  DATOS ESTADÍSTICOS (documento estadística 1) (documento estadística 2) (documento estadística 3)  El último informe de ANPE indica un cambio de tendencia en los casos de acoso y violencia hacia los docentes. Más de 32.500 compañeros han sido atendidos por ANPE desde la creación del servi ...</p>
+									</div>
+
+									<!-- read more button -->
+									<a href="./notices+anpe+aragón+presenta+la+memoria+del+defensor+del+profesor+201617-id=18998" style="float:right;" title="ANPE Aragón presenta la memoria del defensor del profesor 2016/17" class="btn btn-xs"><i class="fa fa-sign-out"></i> Leer más</a>
+		
+									<!-- TAGS -->
+									<br />
+									<a href="./tags+Histórico" style="color:#777;border:1px solid #777;" class="label label-anpe light"><i class="fa fa-tags"></i> Histórico</a>
+			
+									<br />
+								</li>
+		
+							</ul>
+						</div>
+												
+						<div class="divider" style="margin:30px 0;"><!-- divider --></div>
+						
+						<div class="pull-right nav hidden-xs">
+
+									<a href="https://www.facebook.com/ANPE-Arag%C3%B3n-163252367169315/" class="social fa fa-facebook" target="_blank"></a>
+								
+									<a href="https://twitter.com/anpearagon" class="social fa fa-twitter" target="_blank"></a>
+								
+									<a href="https://www.instagram.com/anpe_aragon/?hl=es" class="social fa fa-instagram" target="_blank"></a>
+								
+						</div>
+		
+					</div>
+	
+	
+				</section>
+			</div>
+		</div>
+		<!-- /WRAPPER -->
+
+		<!-- FOOTER -->
+		<footer>
+
+			<!-- footer content -->
+			<div class="footer-content" style="background:#FFF none repeat scroll 0% 0%;">
+				<div class="container">
+
+					<div class="row">
+
+
+						<!-- FOOTER CONTACT INFO -->
+						<div class="column col-md-4 text-left">
+							<div class="column col-md-12 text-center">
+								<!-- FOOTER LOGO //-->
+								<div class="logo">
+									<div class="logo-content">
+										<img class="animate_fade_in" src="assets/images/logo_footer.png" width="170" alt="" />
+									</div>
+								</div>
+								<!-- FOOTER LOGO -->
+							</div>
+							<div class="column col-md-12 text-left"><br />
+							<div class="col-md-6" style="margin-bottom: 5px;line-height: 18px;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Sede Huesca:</strong><br />
+<a href="tel:+34974225453" style="color: #008c3c;">974 225 453</a></span></span></div>
+
+<div class="col-md-6" style="margin-bottom: 5px;line-height: 18px;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="mailto:huesca@anpe.es" style="color: #87919F;" target="_top">huesca@anpe.es</a></span></span></div>
+
+<div class="col-md-6" style="margin-bottom: 5px;line-height: 18px;">&nbsp;</div>
+
+<div class="col-md-6" style="margin-bottom: 5px; line-height: 18px;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Sede Teruel:</strong><br />
+<a href="tel:+34659521348" style="color: rgb(0, 140, 60);">659 521 348</a></span></span></div>
+
+<div class="col-md-6" style="margin-bottom: 5px; line-height: 18px;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><a href="mailto:teruel@anpe.es" style="color: rgb(135, 145, 159);" target="_top">teruel@anpe.es</a></span></span></div>
+
+<div class="col-md-6" style="margin-bottom: 5px; line-height: 18px;">&nbsp;</div>
+
+<div class="col-md-6" style="margin-bottom: 5px; line-height: 18px;"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Sede Zaragoza (sede auton&oacute;mica):</strong></span></span><br />
+<a href="tel:+34976224741" style="color: rgb(0, 140, 60); font-family: arial, helvetica, sans-serif; font-size: 14px;">976 224 741</a></div>
+
+<div class="col-md-6" style="margin-bottom: 5px; line-height: 18px;"><a href="mailto:zaragoza@anpe.es" style="color: rgb(135, 145, 159); font-family: arial, helvetica, sans-serif; font-size: 14px;" target="_top">zaragoza@anpe.es</a></div>
+
+<p>&nbsp;</p>
+
+							</div>
+						</div>
+
+						<!-- /FOOTER CONTACT INFO -->
+
+						<div class="column col-md-4 text-left">
+						Síguenos en las redes sociales:<br />
+
+								<a href="https://www.facebook.com/ANPE-Arag%C3%B3n-163252367169315/" class="social rounded fa fa-facebook" target="_blank"></a>
+							
+								<a href="https://twitter.com/anpearagon" class="social rounded fa fa-twitter" target="_blank"></a>
+							
+								<a href="https://www.instagram.com/anpe_aragon/?hl=es" class="social rounded fa fa-instagram" target="_blank"></a>
+							
+						<br />
+		<a href="./newsletter" title="Suscribete"><img class="img-responsive" src="./assets/images/suscribete.jpg" alt="Suscribete" title="Suscribete" /></a>
+	
+						</div>
+						<div class="column col-md-4 text-left visible-sm visible-md visible-lg">
+							Enlaces de interés:<br /><br />
+							<div class="col-md-12" style="margin-bottom: 5px">&nbsp;<img alt="" src="http://anpearagon.es/imageFile.php?link=ckeditor/upload/community/2/images/Educaragon.png" style="float:left; height:39px; width:150px" /></div>
+
+<p>&nbsp;</p>
+
+<p><img alt="B.O.E." src="https://anpearagon.es/imageFile.php?link=ckeditor/upload/community/2/images/boe.png" style="float:left; height:62px; margin:auto; width:150px" title="B.O.E." /></p>
+
+<div class="col-md-6" style="margin-bottom: 5px">&nbsp;</div>
+
+<div class="col-md-6" style="margin-bottom: 5px">&nbsp;</div>
+
+<div class="col-md-6" style="margin-bottom: 5px">&nbsp;</div>
+
+<div class="col-md-6" style="margin-bottom: 5px"><img alt="Boletín Oficial de Aragón" src="http://anpearagon.es/imageFile.php?link=ckeditor/upload/community/2/images/BOA.png" style="float:left; height:39px; margin:auto; width:150px" title="Boletín Oficial de Aragón" /></div>
+
+<div class="col-md-6" style="margin-bottom: 5px">&nbsp;</div>
+
+<div class="col-md-6" style="margin-bottom: 5px">&nbsp;</div>
+
+<div class="col-md-6" style="margin-bottom: 15px;text-align: center;"><img alt="MEC" src="http://anpearagon.es/imageFile.php?link=ckeditor/upload/community/2/images/Ministerio de Educación y FP.png" style="float:left; height:39px; margin:auto; width:150px" title="MEC" /></div>
+
+<div class="col-md-6" style="margin-bottom: 5px;">&nbsp;</div>
+
+<div class="col-md-6" style="margin-bottom: 5px;">&nbsp;</div>
+
+<div class="col-md-6" style="margin-bottom: 5px;"><img alt="MEC" src="https://anpearagon.es/imageFile.php?link=ckeditor/upload/community/2/images/logofses.png" style="float:left; height:45px; margin:auto; width:150px" title="FESES" /></div>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<hr />
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+						</div>
+												
+					</div>
+				</div>
+			</div>
+			<!-- footer content -->
+
+			<!-- copyright , scrollTo Top -->
+			<div class="footer-bar" style="color:#fff;background:#d3d1d1 none repeat scroll 0% 0%">
+				<div class="container">
+					<div class="column col-md-5 text-left">
+						Copyright &copy; 2020 <a style="color:#008c3c" class="pie" href="./" title="ANPE Aragon"> ANPE Aragon</a>. All Rights Reserved.
+					</div>
+
+					<div class="column col-md-6 text-right" style="color:#626262;">
+						<a style="color:#626262;" href="./politica-privacidad.pdf" target="_blank" title="Pol&iacute;tica de Privacidad">Pol&iacute;tica de Privacidad</a> |
+						<a style="color:#626262;" href="./terminos-y-condiciones.pdf" target="_blank" title="T&eacute;rminos y condiciones">T&eacute;rminos y condiciones</a> | 
+						<a style="color:#626262;" href="./clausula-newsletter.pdf" target="_blank" title="Clausula Newsletter">Clausula Newsletter</a><br />
+						<a style="color:#626262;" href="http://www.metodografico.com" target="_blank" title="Dise&ntilde;ado por M&eacute;todo Gr&aacute;fico">Dise&ntilde;ado por M&eacute;todo Gr&aacute;fico</a><br />
+						<strong>2.2-RC1 (Release Candidate)</strong>
+					</div>
+
+					<a style="color:#fff;" class="toTop" href="#topNav">SUBIR <i class="fa fa-arrow-circle-up"></i></a>
+				</div>
+			</div>
+			<!-- copyright , scrollTo Top -->
+
+		</footer>
+		<!-- /FOOTER -->
+
+		<!-- Google maps //-->
+		<script type="text/javascript">
+			function showMap(initWhat) {
+				var script 		= document.createElement("script");
+				script.type 	= "text/javascript";
+
+				script.src 		= "https://maps.googleapis.com/maps/api/js?key=AIzaSyAvHGGZCTCExw98rcxj0WuJUhoKb60olUY&v=3.exp&sensor=true&callback="+initWhat;
+
+				document.body.appendChild(script);
+			}
+		</script>
+		<!-- End Google maps //-->
+
+
+
+		<!-- Google Analytics: Change UA-XXXXX-X to be your sites ID. Go to http://www.google.com/analytics/ for more information. -->
+		<script type="text/javascript">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-93740451-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+
+		<!-- JAVASCRIPT FILES -->
+		<script type="text/javascript" src="assets/plugins/jquery.easing.1.3.js"></script>
+		<script type="text/javascript" src="assets/plugins/jquery.cookie.js"></script>
+		<script type="text/javascript" src="assets/plugins/jquery.appear.js"></script>
+		<script type="text/javascript" src="assets/plugins/masonry.js"></script>
+		<!--
+		<script type="text/javascript" src="assets/plugins/masonry_3tab.js"></script>
+		//-->
+		<script type="text/javascript" src="assets/plugins/jquery.isotope.js"></script>
+
+		<script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="assets/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+		<script type="text/javascript" src="assets/plugins/owl-carousel/owl.carousel.min.js"></script>
+		<script type="text/javascript" src="assets/plugins/stellar/jquery.stellar.min.js"></script>
+		<script type="text/javascript" src="assets/plugins/knob/js/jquery.knob.js"></script>
+		<script type="text/javascript" src="assets/plugins/jquery.backstretch.min.js"></script>
+		<script type="text/javascript" src="assets/plugins/superslides/dist/jquery.superslides.min.js"></script>
+		<script type="text/javascript" src="assets/plugins/mediaelement/build/mediaelement-and-player.min.js"></script>
+
+		<!-- REVOLUTION SLIDER -->
+		<script type="text/javascript" src="assets/plugins/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
+		<script type="text/javascript" src="assets/plugins/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
+		<script type="text/javascript" src="assets/js/slider_revolution.js"></script>
+		
+		<script type="text/javascript" src="assets/js/scripts.js"></script>
+
+    <script src="assets/js/jquery-scrollbar.js"></script>
+    <script type="text/javascript">
+			$(document).ready(function () {
+	      //Jquery Pages Scroll Progressbar default setting
+				$("#progress-bar").onscroll();
+				//Jquery Pages Scroll Progressbar addition setting
+				//Progressbar color, Progressbar thickness, Progressbar postion
+				//Progressbar position: fixed, absolute, relative
+				$("#progress-bar").onscroll({backgroundColor: '#0098dd', height: '3px', position: 'absolute'});
+			});
+		</script>
+		
+</body>
+</html>
